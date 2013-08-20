@@ -1,0 +1,16 @@
+{
+  "name": "brand-egg",
+  "repo": "flokk/brand-egg",
+  "description": "Egg brand for The Flokk",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "style.css"
+  ],
+  "images": [
+    "logo.svg"
+  ]
+}
