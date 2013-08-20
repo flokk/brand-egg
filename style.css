@@ -1,7 +1,7 @@
 .brand .company {
   background: url("logo.svg") 0 0 no-repeat;
   background-size: 100%;
-  display: block;
+  display: inline-block;
   height: 72px;
   width: 235px;
   text-indent: -99999em;
