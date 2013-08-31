@@ -11,6 +11,7 @@
     "style.css"
   ],
   "images": [
-    "logo.svg"
+    "logo.svg",
+    "logo.png"
   ]
 }
